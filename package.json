@@ -1,7 +1,7 @@
 {
-  "name": "Haruka",
+  "name": "visbot",
   "version": "5.0.0",
-  "description": "By Zeeone Ofc",
+  "description": "by Ahmat unyu2",
   "main": "haruka.js",
   "directories": {
     "lib": "lib"
@@ -10,7 +10,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node haruka.js"
   },
-  "author": "ZEEONE",
+  "author": "ahmat unyu2",
   "dependencies": {
     "@adiwajshing/baileys": "^3.5.3", 
     "awesome-phonenumber": "^2.64.0",
